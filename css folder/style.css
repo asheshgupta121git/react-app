@@ -1,0 +1,86 @@
+/* p{
+    color: orange;
+    background-color: lightblue;
+} */
+
+button{
+    /* range of colors id 0 to 255  */
+    color: rgb(44, 44, 137);   
+    /* background-color: rgba(34, 20, 124, 0.543); */
+    background-color: #24945e;
+
+}
+/* hex codes #rrggbb */
+
+
+/* id selector */
+
+/* #one{
+    color:pink;
+    background-color: blueviolet;
+} */
+
+/* class selectors  */
+/* .two{
+    color: bisque;
+    background-color: royalblue;
+}
+
+
+.heads{
+
+    background-color: orange;
+}
+ */
+
+ /* universal selector   */
+ /* *{
+    background-color: lightcoral;
+ } */
+
+/* h2, p {
+    background-color: pink;
+} */
+
+
+/* background properties  */
+
+/* #background{
+background-image: linear-gradient(to left bottom, green, red, blue, orange, aqua);
+} */
+
+/* css text property  */
+
+/* #background{ */
+    /* text-align: start; */
+   
+    /* text-align: end; */
+    /* text-align: center; */
+    /* text-align: justify; */
+    /* font-weight:bold; */
+    /* font-weight:bolder; */
+    /* font-weight:lighter; */
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    /* text-decoration:  red dotted underline ; */
+    /* text-decoration:  red wavy underline ; */
+    /* text-decoration:  red double underline ; */
+
+    /* line-height: 2; */
+    /* letter-spacing: 2px;  */
+    /* text-transform: capitalize; */
+    /* text-transform: lowercase; */
+    /* text-transform: uppercase; */
+
+    /* font-size: 20px; */
+/* } */
+
+/* css Fonts  */
+
+/* #background{
+    font-family: "Big Shoulders Inline", sans-seri;
+} */
+
+
+
